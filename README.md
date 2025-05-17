@@ -14,7 +14,7 @@ I’m a Second-year B.Tech student from India, diving into everything tech-relat
 
 - 🔭 Currently on a journey to master the **C++ Developer**.
 - 🧠 Passionate about **AI, ML**, and all things that make tech smarter.
-- 📧 Get in touch: **scientist1420@gmail.com**
+- 📧 Get in touch: **ktm740922@gmail.com**
 - ⚡ And when I’m not coding, you’ll probably find me binge-watching the latest drama—because sometimes, the best debugging instincts come from plot twists!
 
 ### 🛠️ Tech Stack & Tools I Use
